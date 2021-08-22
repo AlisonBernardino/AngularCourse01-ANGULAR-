@@ -1,0 +1,28 @@
+{
+  "routineTasks": [
+    {
+      "taskID": 1,
+      "taskName": "Brush teeths",
+      "taskResponsible": "accountUser",
+      "taskDurationInMinutes": 15
+    },
+    {
+      "taskID": 2,
+      "taskName": "Morning coffee",
+      "taskResponsible": "accountUser",
+      "taskDurationInMinutes": 30
+    },
+    {
+      "taskID": 3,
+      "taskName": "Clean used items",
+      "taskResponsible": "accountUser",
+      "taskDurationInMinutes": 10
+    },
+    {
+      "taskID": 4,
+      "taskName": "Feed the dog",
+      "taskResponsible": "accountUser",
+      "taskDurationInMinutes": 5
+    }
+  ]
+}
